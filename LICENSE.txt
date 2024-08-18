@@ -1,0 +1,52 @@
+Comprehensive License
+Name: Torin Project
+
+Author: Taha Daneshmand
+
+Date: August 19, 2024
+
+License Terms:
+
+Grant of License:
+The author grants you a non-exclusive, non-transferable, revocable license to use this script for personal and commercial purposes, subject to the terms and conditions set forth in this license.
+
+Attribution Required:
+You must provide appropriate credit to the author in any use of this script, including in any derived works or publications. The attribution must include the following statement:
+
+`This script was created by Taha Daneshmand. Use of this script is subject to the conditions specified in the license.`
+
+No Copying or Redistribution:
+You are not allowed to copy, distribute, or publish this script in any form, whether modified or unmodified, without explicit written permission from the author. This includes online distribution, repositories, or any other means.
+
+Modification:
+You are allowed to modify the script for personal use. However, any modifications must remain private and cannot be redistributed without explicit written permission from the author.
+
+Commercial Use:
+Commercial use of this script is permitted only with prior written consent from the author. A separate licensing agreement must be obtained for commercial purposes.
+
+Disclaimer of Warranty:
+This script is provided "as is," without any warranties or guarantees. The author disclaims all warranties, express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose. The author is not liable for any damages or issues that arise from using this script.
+
+Legal Compliance:
+Users must comply with all applicable local, state, national, and international laws and regulations when using this script. Any illegal use of this script is strictly prohibited.
+
+Termination of License:
+The author reserves the right to terminate this license at any time if the terms are violated. Upon termination, all rights granted under this license will cease immediately, and you must stop using and destroy all copies of the script.
+
+Non-Commercial Use:
+This script may not be used for any commercial purposes without obtaining explicit permission from the author.
+
+Redistribution Restrictions:
+Redistribution of the script, including any modified versions, is prohibited. Any redistribution must include this license and cannot alter the script's functionality or legality.
+
+Use with Attribution:
+Any use of this script in publications, demonstrations, or as part of a larger project must include proper attribution to Taha Daneshmand and reference this license.
+
+No Endorsement:
+The use of the author's name or likeness in connection with this script does not imply endorsement or affiliation with the author.
+
+Severability:
+If any provision of this license is found to be invalid or unenforceable, the remaining provisions will continue to be valid and enforceable.
+
+Entire Agreement:
+This license constitutes the entire agreement between you and the author regarding the script and supersedes all prior or contemporaneous understandings and agreements, whether written or oral, regarding the script.
