@@ -1,4 +1,3 @@
-Comprehensive License
 Name: Torin Project
 
 Author: Taha Daneshmand
